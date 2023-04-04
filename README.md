@@ -1,11 +1,11 @@
-# ℹ️ DigiMarket
+# ℹ️ DigiBuy
 
-The DigiMarket is a website for digital marketing Course. It is used teach the Digital Marketing Instructors has teach about digital marketing how it will work
+The DigiBuy is a website for digital marketing Course. It is used teach the Digital Marketing Instructors has teach about digital marketing how it will work
 This website is like teaching platform. This helps in teaching digital marketing to the people's
 
 ---
 
-# 👁️‍🗨️ Preview of DigiMarket Website
+# 👁️‍🗨️ Preview of DigiBuy Website
 
 https://user-images.githubusercontent.com/66934377/159934770-fa0c1806-a810-4238-bf6b-0ec2252e9882.mp4
 
@@ -55,7 +55,7 @@ The Below table framework is used in this project. This project is made with Boo
 * Now Open **cmd** in windows, **bash Terminal** in mac. Now Hit the Below Command's
 
 ```bash
-git clone https://github.com/Manju1392k/DigiMarket-Website.git
+git clone https://github.com/Manju1392k/DigiBuy-Website.git
 ```
 
 * The project cloned after this process
